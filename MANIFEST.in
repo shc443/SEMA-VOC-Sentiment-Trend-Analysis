@@ -1,0 +1,5 @@
+include /data-sema/README.md
+include /data-sema/model_weights/hosrevroberta_210825_5.ckpt
+include /data-sema/output/*
+include /data-sema/voc_data/*
+include /data-sema/pickles/*
